@@ -1,0 +1,21 @@
+.logo {
+  width: auto;
+  float: left;
+}
+
+.col-md-5 {
+  width: auto;
+  margin-left: 80px;
+  margin-top: 20px;
+  width: 30%;
+}
+
+.col-md-1 {
+  width: auto;
+  margin-left: -30px;
+  margin-top: 30px;
+}
+
+.border {
+  border: 30px solid black;
+}
